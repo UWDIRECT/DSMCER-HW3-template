@@ -1,7 +1,7 @@
 Homework evaluation rubric: 
 
-- [ ] Part 1.1: Created two arrays with 10 and 10E6 numbers from same range; made required comment and compelted demonstration. (1 point)
-- [ ] Part 1.2: Prepared a boxplot of the chiller and energy data and provided explanation of what each part means. (1 point)
-- [ ] Part 2: Created figure of chiller and energy data with PDF overlay and made a comment (1 point)
-- [ ] Part 3: Formulated hypothesis (1 point)
-- [ ] Part 3: Perform statistical test and clearly stated the meaning of the result (1 point)
+- [ ] Part 1: a) Created three arrays one for each distribution; b) Created two plots in row of PDF and CDF for each data set; c) Look at how to fix the random numbers (1 point) 
+- [ ] Part 2a: Created plots of the concentrations with the two types of error bars - standard deviation and SE (1 point)
+- [ ] Part 2b: Computed confidence interval for each sample and commented on difference (1 point)
+- [ ] Part 3a: Formulated hypothesis for a single sample test, defined and justified choice of dataset/s, chose a significance level and carried out the test (1 point)
+- [ ] Part 3b: Formulated hypothesis for a paired two sample test, defined and justified choice of dataset/s, chose a significance level and carried out the test  (1 point)
